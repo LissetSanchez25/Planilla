@@ -80,12 +80,4 @@ NOTAS IMPORTANTES
 
   java -jar prac2.jar
 
----
 
-AUTOR
-
-Nombre: (Tu nombre)
-Materia: (Nombre de la materia)
-Profesor: (Nombre del profesor)
-
----
