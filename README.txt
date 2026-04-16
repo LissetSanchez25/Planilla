@@ -37,7 +37,7 @@ CONFIGURACIÓN
 
   URL: jdbc:mysql://localhost:3306/prac2
   Usuario: root
-  Contraseña: (tu contraseña de MySQL)
+  Contraseña: 1234
 
 * Ajustar si es necesario según tu configuración local
 
